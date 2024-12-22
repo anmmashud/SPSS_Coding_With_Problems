@@ -92,6 +92,9 @@ To use this repository on your local machine, follow these steps:
 ---
 
 ## Join Our Research Club
+<div align="center">
+  <h2><a href="https://www.facebook.com/profile.php?id=61566431557385">Research Notebook</a></h2>
+</div>
 
 We invite you to explore **Research Notebook**, our club for passionate researchers and data enthusiasts. Join us to access resources, share ideas, and grow together in the field of research and analytics.
 
@@ -100,3 +103,4 @@ Visit our [club page](https://www.facebook.com/profile.php?id=61566431557385) to
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=61566431557385"><b>Research Notebook</b></a>
 </div>
+
