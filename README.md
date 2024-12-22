@@ -1,3 +1,5 @@
+<b align="center"> Research Notebook </b>
+
 # SPSS Coding with Problems
 
 This repository contains SPSS solutions for a variety of statistical problems. Each problem is organized into a dedicated folder containing data files, syntax files, and output files to make the workflow reproducible and easy to follow.
@@ -15,9 +17,6 @@ The repository follows this structure:
 
 ```plaintext
 SPSS_Coding_With_Problems/
-├── .gitattributes               # Git configuration for handling line endings
-├── LICENSE                      # License for the repository
-├── README.md                    # Project overview and file structure
 ├── SPSS_Coding_with_Problems.pdf # Original problem description document
 ├── Problem_1/
 │   ├── 1_Problem_1.sav         # Data file for Problem 1
@@ -35,12 +34,14 @@ SPSS_Coding_With_Problems/
 │   ├── 1_Problem_4.sav         # Data file for Problem 4
 │   ├── 2_Syntax_problem_4.sps  # Syntax file for Problem 4
 │   ├── 3_Output_problem_4.spv  # Output file for Problem 4
+├── .gitattributes               # Git configuration for handling line endings
+├── LICENSE                      # License for the repository
+├── README.md                    # Project overview and file structure
 ```
 
 ---
 
 ## Naming Convention
-To ensure files are listed in the intended order (alphabetically), a numbered prefix (e.g., `1_`, `2_`, etc.) is added to filenames. This is especially useful in SPSS, where consistent ordering is critical for efficient navigation and understanding.
 
 Each file serves a specific purpose:
 - `1_Problem_X.sav`: Data file containing the dataset for the problem.
@@ -66,7 +67,7 @@ To use this repository on your local machine, follow these steps:
 2. Open a terminal or command prompt.
 3. Run the following command:
    ```bash
-   git clone https://github.com/your-username/SPSS_Coding_With_Problems.git
+   git clone https://github.com/anmmashud/SPSS_Coding_with_Problems.git
    ```
 4. Navigate to the repository folder:
    ```bash
