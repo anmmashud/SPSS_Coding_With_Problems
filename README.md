@@ -1,7 +1,8 @@
 <div align="center">
   <h2><a style="color:purple;">SPSS Coding with Problems</a></h2>
-  <p style="color:green;">This repository contains SPSS solutions for a variety of statistical problems. Each problem is organized into a dedicated folder containing data files, syntax files, and output files to make the workflow reproducible and easy to follow.</p>
+  
 </div>
+<p style="color:green;">This repository contains SPSS solutions for a variety of statistical problems. Each problem is organized into a dedicated folder containing data files, syntax files, and output files to make the workflow reproducible and easy to follow.</p>
 
 If you don't have SPSS installed on your computer, then check the repo : [SPSS installation](https://github.com/anmmashud/IBM_SPSS_Download_and_Installation)
 
