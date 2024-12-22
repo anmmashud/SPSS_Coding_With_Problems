@@ -94,7 +94,7 @@ To use this repository on your local machine, follow these steps:
 ## 
 
 <div align="center">
-  <h2><p>Join Our Research Club</p><a href="https://www.facebook.com/profile.php?id=61566431557385">Research Notebook</a></h2>
+  <h2><p>Join Our</p><p href="https://www.facebook.com/profile.php?id=61566431557385">Research Notebook</p></h2>
 </div>
 
 
