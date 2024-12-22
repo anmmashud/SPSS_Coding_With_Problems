@@ -26,16 +26,16 @@ SPSS_Coding_With_Problems/
 │   ├── 3_Output_problem_1.spv  	# Output file for Problem 1
 ├── Problem_2/
 │   ├── 1_Problem_2.sav         	# Data file for Problem 2
-│   ├── 2_Syntax_problem_2.sps  	# Syntax file for Problem 2
-│   ├── 3_Output_problem_2.spv  	# Output file for Problem 2
+│   ├── 2_Syntax_problem_2.sps   	# Syntax file for Problem 2
+│   ├── 3_Output_problem_2.spv   	# Output file for Problem 2
 ├── Problem_3/
 │   ├── 1_Problem_3.sav         	# Data file for Problem 3
-│   ├── 2_Syntax_problem_3.sps 	 	# Syntax file for Problem 3
-│   ├── 3_Output_problem_3.spv  	# Output file for Problem 3
+│   ├── 2_Syntax_problem_3.sps  	 	# Syntax file for Problem 3
+│   ├── 3_Output_problem_3.spv   	# Output file for Problem 3
 ├── Problem_4/
 │   ├── 1_Problem_4.sav        		# Data file for Problem 4
-│   ├── 2_Syntax_problem_4.sps  	# Syntax file for Problem 4
-│   ├── 3_Output_problem_4.spv  	# Output file for Problem 4
+│   ├── 2_Syntax_problem_4.sps   	# Syntax file for Problem 4
+│   ├── 3_Output_problem_4.spv   	# Output file for Problem 4
 ├── .gitattributes              	# Git configuration for handling line endings
 ├── LICENSE                     	# License for the repository
 ├── README.md                    	# Project overview and file structure
@@ -96,3 +96,7 @@ To use this repository on your local machine, follow these steps:
 We invite you to explore **Research Notebook**, our club for passionate researchers and data enthusiasts. Join us to access resources, share ideas, and grow together in the field of research and analytics.
 
 Visit our [club page](https://www.facebook.com/profile.php?id=61566431557385) to learn more and become part of our community!
+
+<div align="center">
+  <a href="https://www.facebook.com/profile.php?id=61566431557385"><b>Research Notebook</b></a>
+</div>
