@@ -1,4 +1,11 @@
 <div align="center">
+  <h2><a href="https://www.facebook.com/profile.php?id=61566431557385" style="color:blue;">Research Notebook</a></h2>
+  <p style="color:green;">Your go-to community for data enthusiasts, researchers, and analytics professionals!</p>
+</div>
+
+
+
+<div align="center">
   <h2><a href="https://www.facebook.com/profile.php?id=61566431557385">Research Notebook</a></h2>
 </div>
 
