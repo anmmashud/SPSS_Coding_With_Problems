@@ -1,18 +1,10 @@
 <div align="center">
-  <h2><a style="color:purple;">Research Notebook</a></h2>
-  <p style="color:green;">Your go-to community for data enthusiasts, researchers, and analytics professionals!</p>
+  <h2><a style="color:purple;">SPSS Coding with Problems</a></h2>
+  <p style="color:green;">This repository contains SPSS solutions for a variety of statistical problems. Each problem is organized into a dedicated folder containing data files, syntax files, and output files to make the workflow reproducible and easy to follow.</p>
 </div>
 
+If you don't have SPSS installed on your computer, then check the repo : [SPSS installation](https://github.com/anmmashud/IBM_SPSS_Download_and_Installation)
 
-
-<div align="center">
-  <h2><a href="https://www.facebook.com/profile.php?id=61566431557385">Research Notebook</a></h2>
-</div>
-
-If you dont have SPSS installed on your computer, then check the repo : [SPSS installation](https://github.com/anmmashud/IBM_SPSS_Download_and_Installation)
-# SPSS Coding with Problems
-
-This repository contains SPSS solutions for a variety of statistical problems. Each problem is organized into a dedicated folder containing data files, syntax files, and output files to make the workflow reproducible and easy to follow.
 
 ## Project Overview
 The goal of this repository is to:
@@ -99,7 +91,11 @@ To use this repository on your local machine, follow these steps:
 
 ---
 
-## Join Our Research Club
+## 
+
+<div align="center">
+  <h2><p>Join Our Research Club</p><a href="https://www.facebook.com/profile.php?id=61566431557385">Research Notebook</a></h2>
+</div>
 
 
 We invite you to explore **Research Notebook**, our club for passionate researchers and data enthusiasts. Join us to access resources, share ideas, and grow together in the field of research and analytics.
