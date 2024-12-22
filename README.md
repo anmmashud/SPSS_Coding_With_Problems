@@ -84,13 +84,6 @@ To use this repository on your local machine, follow these steps:
 
 ---
 
-## Future Plans
-- Complete syntax and output files for missing problems.
-- Add detailed problem descriptions in the `README.md`.
-- Include visualizations and advanced analyses as the project evolves.
-
----
-
 <div align="center">
   <h2><a>Join Our </a><a href="https://www.facebook.com/profile.php?id=61566431557385">Research Notebook</a></h2>
 </div>
