@@ -89,4 +89,10 @@ To use this repository on your local machine, follow these steps:
 - Add detailed problem descriptions in the `README.md`.
 - Include visualizations and advanced analyses as the project evolves.
 
-Feel free to explore and contribute to this repository!
+---
+
+## Join Our Research Club
+
+We invite you to explore **Research Notebook**, our club for passionate researchers and data enthusiasts. Join us to access resources, share ideas, and grow together in the field of research and analytics.
+
+Visit our [club page](https://www.facebook.com/profile.php?id=61566431557385) to learn more and become part of our community!
