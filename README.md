@@ -1,5 +1,5 @@
 <div align="center">
-  <h2><a href="https://www.facebook.com/profile.php?id=61566431557385" style="color:blue;">Research Notebook</a></h2>
+  <h2><a style="color:purple;">Research Notebook</a></h2>
   <p style="color:green;">Your go-to community for data enthusiasts, researchers, and analytics professionals!</p>
 </div>
 
