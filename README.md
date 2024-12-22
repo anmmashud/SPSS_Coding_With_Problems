@@ -1,4 +1,6 @@
-<b align="center"> Research Notebook </b>
+<div align="center">
+  <h1>Research Notebook</h1>
+</div>
 
 # SPSS Coding with Problems
 
