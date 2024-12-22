@@ -91,8 +91,6 @@ To use this repository on your local machine, follow these steps:
 
 ---
 
-## 
-
 <div align="center">
   <h2><a>Join Our </a><a href="https://www.facebook.com/profile.php?id=61566431557385">Research Notebook</a></h2>
 </div>
