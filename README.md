@@ -1,4 +1,6 @@
-<div href="https://www.facebook.com/profile.php?id=61566431557385" align="center"><b>Research Notebook</b></div>
+<div align="center">
+  <a href="https://www.facebook.com/profile.php?id=61566431557385"><b>Research Notebook</b></a> 
+</div>
 
 # SPSS Coding with Problems
 
