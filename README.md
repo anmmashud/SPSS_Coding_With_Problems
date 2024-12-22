@@ -22,24 +22,18 @@ The repository follows this structure:
 SPSS_Coding_With_Problems/
 ├── SPSS_Coding_with_Problems.pdf	# Original problem description document
 ├── Problem_1/
-│   ├── 1_Problem_1.sav        		# Data file for Problem 1
-│   ├── 2_Syntax_problem_1.sps  	# Syntax file for Problem 1
-│   ├── 3_Output_problem_1.spv  	# Output file for Problem 1
+│   ├── Problem1.sav    # Data file for Problem 1
+│   ├── Syntax1.sps     # Syntax file for Problem 1
+│   ├── Output1.spv  	  # Output file for Problem 1
 ├── Problem_2/
-│   ├── 1_Problem_2.sav         	# Data file for Problem 2
-│   ├── 2_Syntax_problem_2.sps   	# Syntax file for Problem 2
-│   ├── 3_Output_problem_2.spv   	# Output file for Problem 2
-├── Problem_3/
-│   ├── 1_Problem_3.sav         	# Data file for Problem 3
-│   ├── 2_Syntax_problem_3.sps  	 	# Syntax file for Problem 3
-│   ├── 3_Output_problem_3.spv   	# Output file for Problem 3
-├── Problem_4/
-│   ├── 1_Problem_4.sav        		# Data file for Problem 4
-│   ├── 2_Syntax_problem_4.sps   	# Syntax file for Problem 4
-│   ├── 3_Output_problem_4.spv   	# Output file for Problem 4
-├── .gitattributes              	# Git configuration for handling line endings
-├── LICENSE                     	# License for the repository
-├── README.md                    	# Project overview and file structure
+│   ├── Problem2.sav    # Data file for Problem 2
+│   ├── Syntax2.sps   	# Syntax file for Problem 2
+│   ├── Output2.spv   	# Output file for Problem 2
+...
+...
+├── .gitattributes      # Git configuration for handling line endings
+├── LICENSE             # License for the repository
+├── README.md         	# Project overview and file structure
 ```
 
 ---
