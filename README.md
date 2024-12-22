@@ -2,6 +2,7 @@
   <h2><a href="https://www.facebook.com/profile.php?id=61566431557385">Research Notebook</a></h2>
 </div>
 
+If you dont have SPSS installed on your computer, then check the repo : [SPSS installation](https://github.com/anmmashud/IBM_SPSS_Download_and_Installation)
 # SPSS Coding with Problems
 
 This repository contains SPSS solutions for a variety of statistical problems. Each problem is organized into a dedicated folder containing data files, syntax files, and output files to make the workflow reproducible and easy to follow.
